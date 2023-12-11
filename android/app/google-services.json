@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866122109891",
+    "project_id": "labuanbajoapp",
+    "storage_bucket": "labuanbajoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866122109891:android:7871de1eb279c54bed2376",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAymyhPWr4ZyV-iWWAx8myO1hZxD0TCrck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
